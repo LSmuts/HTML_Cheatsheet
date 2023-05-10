@@ -1,0 +1,41 @@
+body {
+    background-color: #DCDCDC;
+}
+
+h1 {
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 600;
+    font-size: 28px;
+    color: #663399;
+    padding: 20px 0;
+}
+
+table {
+    text-align: center;
+    border: 2px solid #663399;
+    margin: 0 auto;
+}
+
+th,
+td {
+    border-bottom: 1px solid #663399;
+    padding: 5px 10px;
+    text-align: left;
+}
+
+th {
+    color: #663399;
+    background-color: #E6E6FA;
+}
+
+span {
+    font-family: 'Roboto Mono';
+    background-color: #f9f9ff;
+}
+
+footer {
+    font-family: Montserrat;
+    text-align: center;
+    padding-top: 20px;
+}
